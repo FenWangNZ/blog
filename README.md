@@ -1,5 +1,6 @@
 # LearningBaby
 I love learning. This is my wiki.
+## [Starting automation framework](https://github.com/learningbaby/blog/issues/7#issue-728915145)
 ## [Lesson learnt! Be more attention to details ](https://github.com/learningbaby/blog/issues/6#issue-716902398)
 ## [Selenium: Verify downloaded files on Windows installed on Mac via Parallel Desktop](https://github.com/betaxp/learningbaby/issues/5#issue-711570733)
 ## [Problem solved! Exciting! Visual Studio compiled unsuccessfully on windows installed on Mac via Parallel desktop](https://github.com/betaxp/learningbaby/issues/4#issue-710813724)
