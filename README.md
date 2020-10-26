@@ -1,5 +1,6 @@
 # LearningBaby
 I love learning. This is my wiki.
+## [Second refactoring of Login Module(6 test methods)](https://github.com/learningbaby/blog/issues/9#issue-729443719)
 ## [First refactoring of the Test_1 and Test_0_NoInput](https://github.com/learningbaby/blog/issues/8#issue-728987073)
 ## [Starting automation framework](https://github.com/learningbaby/blog/issues/7#issue-728915145)
 ## [Lesson learnt! Be more attention to details ](https://github.com/learningbaby/blog/issues/6#issue-716902398)
