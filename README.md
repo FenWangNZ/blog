@@ -1,5 +1,6 @@
 # LearningBaby
 I love learning. This is my wiki.
+## [Creating BaseTest](https://github.com/learningbaby/blog/issues/11#issue-731743535)
 ## [Starting automation test on invoice module-Create an invoice](https://github.com/learningbaby/blog/issues/10#issue-731247846)
 ## [Second refactoring of Login Module(6 test methods)](https://github.com/learningbaby/blog/issues/9#issue-729443719)
 ## [First refactoring of the Test_1 and Test_0_NoInput](https://github.com/learningbaby/blog/issues/8#issue-728987073)
