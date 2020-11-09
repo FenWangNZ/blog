@@ -1,5 +1,6 @@
 # LearningBaby
 I love learning. This is my wiki.
+## [Adding Reporter to generate HTML Report](https://github.com/FenWangNZ/blog/issues/13#issue-738873810)
 ## [Creating BaseTest](https://github.com/learningbaby/blog/issues/11#issue-731743535)
 ## [Starting automation test on invoice module-Create an invoice](https://github.com/learningbaby/blog/issues/10#issue-731247846)
 ## [Second refactoring of Login Module(6 test methods)](https://github.com/learningbaby/blog/issues/9#issue-729443719)
