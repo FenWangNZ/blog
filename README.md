@@ -1,5 +1,6 @@
 # LearningBaby
 I love learning. This is my wiki.
+## [My recent achievements](https://github.com/FenWangNZ/blog/issues/17#issue-767079224)
 ## [Python day1](https://github.com/FenWangNZ/blog/issues/16#issue-753918609)
 ## [CNZBA registration module test case](https://github.com/FenWangNZ/blog/issues/15#issue-746137498)
 ## [Test case design for CNZBA](https://github.com/FenWangNZ/blog/issues/14#issue-746013365)
