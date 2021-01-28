@@ -1,5 +1,6 @@
 # LearningBaby
 I love learning. This is my wiki.
+## [Upgrade windows 10 on my virtualBox on MacBook ](https://github.com/FenWangNZ/blog/issues/18#issue-796357837)
 ## [My recent achievements](https://github.com/FenWangNZ/blog/issues/17#issue-767079224)
 ## [Python day1](https://github.com/FenWangNZ/blog/issues/16#issue-753918609)
 ## [CNZBA registration module test case](https://github.com/FenWangNZ/blog/issues/15#issue-746137498)
